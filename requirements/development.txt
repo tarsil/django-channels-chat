@@ -5,4 +5,6 @@ django-webtest
 ipdb
 ipython
 nose
+spec
+webtest
 werkzeug

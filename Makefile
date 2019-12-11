@@ -10,3 +10,8 @@ migrate:
 
 run:
 	python canal/manage.py runserver
+
+tests:
+	cd canal &&\
+    DJANGO_SETTINGS_MODULE=canal.testing.settings python manage.py test $(TESTONLY) --with-specplugin  --keepdb &&\
+    cd ..
