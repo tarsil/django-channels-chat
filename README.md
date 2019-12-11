@@ -66,3 +66,8 @@ Quit the server with CONTROL-C.
 
 The endpoint for the chat is `http://localhost:8000/chat/` where a string for the room should be passed. Do the
 same thing in a different browser tab/window and start chatting through it
+
+## Run the tests
+```shell script
+make tests
+```
