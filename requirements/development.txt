@@ -1,0 +1,8 @@
+-r live.txt
+channels_redis
+django-nose
+django-webtest
+ipdb
+ipython
+nose
+werkzeug
