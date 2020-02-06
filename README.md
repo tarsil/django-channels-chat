@@ -1,3 +1,5 @@
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/tiagoarasilva/django-channels-chat.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/tiagoarasilva/django-channels-chat/alerts/)
+
 # Django Channels Chat
 
 - This is supporting [Django Channels](https://channels.readthedocs.io/en/stable/index.html).
